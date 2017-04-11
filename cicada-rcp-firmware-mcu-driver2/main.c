@@ -85,6 +85,8 @@ void IP_Test(void)
  */
 int main ( void )
 {
+	
+	printf ("This is a test proc! \n");
 #if 1
 	if (reset_status == 0x12345678)
     {
