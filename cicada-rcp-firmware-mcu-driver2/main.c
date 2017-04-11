@@ -85,7 +85,7 @@ void IP_Test(void)
  */
 int main ( void )
 {
-#if 0
+#if 1
 	if (reset_status == 0x12345678)
     {
         /* @todo warm reset */
